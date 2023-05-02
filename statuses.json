@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0b",
+  "statuses": {
+      "script": "Working",
+      "website": "Working"
+  },
+  "game-statuses": {
+        "da-hood": "Working",
+        "hood-modded": "Working",
+        "hood-customs": "Patched",
+        "dh-aim-trainer": "Working",
+        "katana-hood": "Working",
+        "dah-aim-trainer": "Working",
+        "dae-hood": "Working",
+        "dat-hood": "Working",
+        "untitled-hood": "Working",
+        "del-hood": "Working",
+        "dav-hood": "Working",
+        "da-downhill": "Working"
+  }
+}
