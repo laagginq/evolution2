@@ -1,10 +1,10 @@
 {
   "version": "1.0.0b",
-  "statuses": {
+  "status": {
       "script": "Working",
       "website": "Working"
   },
-  "game-statuses": {
+  "game-status": {
         "da-hood": "Working",
         "hood-modded": "Working",
         "hood-customs": "Patched",
