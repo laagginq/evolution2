@@ -1,21 +1,21 @@
 {
   "version": "1.0.0b",
   "status": {
-      "script": "Working",
-      "website": "Working"
+      "script": "Working 🟢",
+      "website": "Working 🟢"
   },
   "gamestatus": {
-        "dahood": "Working",
-        "hoodmodded": "Working",
-        "hoodcustoms": "Patched",
-        "dhaimtrainer": "Working",
-        "katanahood": "Working",
-        "dahaimtrainer": "Working",
-        "daehood": "Working",
-        "dathood": "Working",
-        "untitledhood": "Working",
-        "delhood": "Working",
-        "davhood": "Working",
-        "dadownhill": "Working"
+        "dahood": "Working 🟢",
+        "hoodmodded": "Working 🟢",
+        "hoodcustoms": "Patched 🔴",
+        "dhaimtrainer": "Working 🟢",
+        "katanahood": "Working 🟢",
+        "dahaimtrainer": "Working 🟢",
+        "daehood": "Working 🟢",
+        "dathood": "Working 🟢",
+        "untitledhood": "Working 🟢",
+        "delhood": "Working 🟢",
+        "davhood": "Working 🟢",
+        "dadownhill": "Working 🟢"
   }
 }
