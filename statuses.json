@@ -1,5 +1,6 @@
 {
   "version": "1.0.0b",
+  "note": "Some features may not be working for all games at this time.",
   "status": {
       "script": "Working 🟢",
       "website": "Outdated 🟡"
