@@ -5,17 +5,17 @@
       "website": "Working 🟢"
   },
   "gamestatus": {
-        "dahood": "Working 🟢",
-        "hoodmodded": "Working 🟢",
-        "hoodcustoms": "Patched 🔴",
-        "dhaimtrainer": "Working 🟢",
-        "katanahood": "Working 🟢",
-        "dahaimtrainer": "Working 🟢",
-        "daehood": "Working 🟢",
-        "dathood": "Working 🟢",
-        "untitledhood": "Working 🟢",
-        "delhood": "Working 🟢",
-        "davhood": "Working 🟢",
-        "dadownhill": "Working 🟢"
+        "dahood": "Working/Undetected 🟢",
+        "hoodmodded": "Working/Undetected 🟢",
+        "hoodcustoms": "Patched/Detected 🔴",
+        "dhaimtrainer": "Working/Undetected 🟢",
+        "katanahood": "Working/Undetected 🟢",
+        "dahaimtrainer": "Working/Undetected 🟢",
+        "daehood": "Working/Undetected 🟢",
+        "dathood": "Working/Undetected 🟢",
+        "untitledhood": "Working/Undetected 🟢",
+        "delhood": "Working/Undetected 🟢",
+        "davhood": "Working/Undetected 🟢",
+        "dadownhill": "Working/Undetected 🟢"
   }
 }
