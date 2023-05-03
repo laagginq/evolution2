@@ -4,18 +4,18 @@
       "script": "Working",
       "website": "Working"
   },
-  "game-status": {
-        "da-hood": "Working",
-        "hood-modded": "Working",
-        "hood-customs": "Patched",
-        "dh-aim-trainer": "Working",
-        "katana-hood": "Working",
-        "dah-aim-trainer": "Working",
-        "dae-hood": "Working",
-        "dat-hood": "Working",
-        "untitled-hood": "Working",
-        "del-hood": "Working",
-        "dav-hood": "Working",
-        "da-downhill": "Working"
+  "gamestatus": {
+        "dahood": "Working",
+        "hoodmodded": "Working",
+        "hoodcustoms": "Patched",
+        "dhaimtrainer": "Working",
+        "katanahood": "Working",
+        "dahaimtrainer": "Working",
+        "daehood": "Working",
+        "dathood": "Working",
+        "untitledhood": "Working",
+        "delhood": "Working",
+        "davhood": "Working",
+        "dadownhill": "Working"
   }
 }
