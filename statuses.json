@@ -1,6 +1,6 @@
 {
   "version": "1.0.0b",
-  "note": "Some features may not be working for all games at this time.\nSome users may experience crashes due to luarmor bug. Please wait for a fix.",
+  "note": "Some features may not be working for all games at this time.\nOnly microsoft store client and mobile executors work right now.",
   "status": {
       "script": "Working (Byfron) 🟡",
       "website": "Outdated 🟡"
